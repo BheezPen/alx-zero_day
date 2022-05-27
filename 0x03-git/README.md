@@ -1,1 +1,1 @@
-Anotyer README created
+Another README created. That is eddited as instructed
